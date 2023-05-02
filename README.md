@@ -17,3 +17,9 @@ Type npm install --save-dev hint@7.x
 Copy .hintrc file to your project
 
 Run npx hint . in the terminal
+
+Type npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
+Copy .stylelintrc.json file to your project
+
+Run npx stylelint in the terminal
