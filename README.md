@@ -20,7 +20,7 @@ LinkedIn: Kaylin De Wet (https://www.linkedin.com/in/kaylin-de-wet/)
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://chimerical-cobbler-fbf136.netlify.app/)
 
 ## Prerequisite
 
