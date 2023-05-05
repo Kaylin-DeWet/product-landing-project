@@ -1,25 +1,76 @@
 # product-landing-project
 
-Creating a product landing page.
+Project Name: Product Landing Page Project
 
-Create development branch and switch to default.
+Description
+Creating a product landing page about trombones.
 
-Create feature-branch.
+## Built With
 
-Create github/workflows folder and add linters.yml file to it.
+HTML5,
+CSS
 
-Create a .gitignore file and add node_modules to it.
+## Author
 
-Run npm init -y in the terminal to create package.json file
+👤 Kaylin De Wet
 
-Type npm install --save-dev hint@7.x
+GitHub: @Kaylin-DeWet (https://github.com/Kaylin-DeWet)
+Twitter: N/A
+LinkedIn: Kaylin De Wet (https://www.linkedin.com/in/kaylin-de-wet/)
 
-Copy .hintrc file to your project
+## Live Demo
 
-Run npx hint . in the terminal
+[Live Demo Link]()
 
-Type npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+## Prerequisite
 
-Copy .stylelintrc.json file to your project
+Install Git.
+Install Vs code or any text editor.
 
-Run npx stylelint in the terminal
+## Getting Started
+
+Create a new GitHub repo.
+Create a new branch according to the GitHub flow rules.
+Add a .gitignore file.
+Set up a linter for HTML and CSS and make sure that any files that are not relevant are ignored by git.
+Add descriptive README file to your project - please use this template but remember to customize it to your project.
+
+Clone- your files from github into VS code
+git clone + "insert link"
+
+Create a new branch in VS code -development branch
+git checkout - b development
+
+- add some text
+
+git add .
+
+git commit -m"comment"
+
+git push --set-upstream origin development
+
+Add 5 files (each one in a separate commit):
+A .html file that includes a product landing page.
+A .css file that includes one class with styles for your product landing page.
+A .hintrc file.
+A .stylelintrc.json file.
+Create a github/workflows folder with a file called linters.yml inside.
+Make sure that the node_modules file is ignored by git and is not present in your GitHub repository.
+Open a pull request.
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+Show your support
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+Hat tip to anyone whose code was used
+
+## 📝 License
+
+This project is MIT licensed.
